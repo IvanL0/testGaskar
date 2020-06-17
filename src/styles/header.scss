@@ -1,0 +1,10 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  align-self: stretch;
+  align-items: center;
+  justify-content: flex-end;
+  min-height: 4vh;
+  background-color: #f8f8f8;
+  padding-right: 10px;
+}
